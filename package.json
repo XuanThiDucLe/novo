@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "chart.js": "^2.7.3",
+    "chart.js": "^2.9.4",
     "haversine-distance": "^1.1.4",
     "jquery": "^3.3.1",
     "mapbox": "^1.0.0-beta10",
